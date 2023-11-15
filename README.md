@@ -1,4 +1,4 @@
-# epilemob: v 0.1
+# epilereco: v 0.1
 **_English documentation ((документация на русском языке находится в конце)_**
 ## The title: 
 **Developing a cross-platform application (epilemob: v 0.1) to register and monitor the dynamics of state for the epilepsy patient**
